@@ -23,3 +23,4 @@ if __name__ == '__main__':
     char = str(input('Write character for word-list: '))
     size = int(input('Write size for word-list: '))
     generate(char, size)
+    print('Generated file in success!')
